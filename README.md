@@ -1,2 +1,2 @@
-# aulagit1
+# aulaGit1
 Aprendendo a fazer repository aula1 2022
